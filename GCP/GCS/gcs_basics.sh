@@ -1,5 +1,5 @@
 #Creating a bucket named packt-gcp:
-gsutil mb gs://packt-gcp
+gsutil mb gs://tensorboard-logs/gdw-dev-atap
 
 #Uploading a file to the bucket:
 gsutil cp gs://packt-gcp/
