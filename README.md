@@ -2,7 +2,7 @@
  <table>
   <tr>
     <td>
-        
+        Google Cloud
     </td>
     <td>
         <a href="https://console.cloud.google.com/home/dashboard">Console</a> 
