@@ -13,15 +13,12 @@
     <td>
         Vertex AI
     </td>
-    
     <td>
        <a href="https://console.cloud.google.com/vertex-ai">Dashboard</a> 
     </td>
-
     <td>
-        <a href="https://console.cloud.google.com/vertex-ai/workbench/list/instances">Dashboard</a> 
+        <a href="https://console.cloud.google.com/vertex-ai/workbench/list/instances">Workbench</a> 
     </td>
-    
     <td>
         <a href="https://console.cloud.google.com/vertex-ai/pipelines">Pipelines</a> 
     </td>
