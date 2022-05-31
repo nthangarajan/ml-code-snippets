@@ -7,13 +7,15 @@
 <table>
  <tr>
   <td>
-    <h3> Console </h3>
+    <img src="google-cloud-icons/gcp.png" height="200"/>
   </td>
  </tr>  
  
  <tr>
   <td>
-    <h3> Vertex AI </h3>
+    <h3> AI/ML </h3>
+    <br/>
+    <h4> Create and use ML Model </h4>
   </td>
   
   <td>
