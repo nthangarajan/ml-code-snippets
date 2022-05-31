@@ -53,9 +53,15 @@
   </td>
  </tr>
  
+ <tr>
+  <td>
+    <h3> Database </h3>
+  </td>
+ </tr>
+ 
   <tr>
   <td>
-    <h3> Analytics </h3>
+    <h3> Data Analytics </h3>
   </td>
  </tr>
  
@@ -67,19 +73,36 @@
  
   <tr>
   <td>
-    <h3> Operations </h3>
+    <h3> Management Tools </h3>
   </td>
  </tr>
  
   <tr>
   <td>
-    <h3> Integration </h3>
+    <h3> Application Integration </h3>
   </td>
  </tr>
  
-  <tr>
+ <tr>
   <td>
-    <h3> CI/CD </h3>
+    <h3> DevOps CI/CD </h3>
   </td>
  </tr>
+
+ <tr>
+  <td>
+    <h3> Developer Tools </h3>
+  </td>
+ </tr>
+ 
+ <tr>
+  <td>
+    <h3> Compute Scalable VMs and Container </h3>
+  </td>
+ </tr>
+  
+ 
+ 
+ 
+ 
 </table>
