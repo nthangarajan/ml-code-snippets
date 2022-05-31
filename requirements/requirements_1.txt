@@ -1,0 +1,8 @@
+fire
+python-dateutil
+flask
+geopy
+requests
+google-cloud-aiplatform
+pandas
+requests

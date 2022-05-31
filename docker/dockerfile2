@@ -1,0 +1,12 @@
+FROM tensorflow/tensorflow:2.7.0
+
+
+ENV LOG_DIR "gs://gdw-tensorboard-logs"
+ENV PORT "8080"
+ENV HOST "0.0.0.0"
+ENV LOAD_FAST "false"
+
+CMD [ 
+  "bash", "-c", 
+  "tensorboard --logdir ${LOG_DIR} --host ${HOST} --port ${PORT} --load_fast ${LOAD_FAST}"
+]
