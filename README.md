@@ -1,27 +1,83 @@
-# ml-code-snippets
- <table>
-  <tr>
-    <td>
-        Google Cloud
-    </td>
-    <td>
-        <a href="https://console.cloud.google.com/home/dashboard">Console</a> 
-    </td>
-  </tr>
+## Google Cloud Platform
 
-  <tr>
-    <td>
-        Vertex AI
-    </td>
-    <td>
-       <a href="https://console.cloud.google.com/vertex-ai">Dashboard</a> 
-    </td>
-    <td>
-        <a href="https://console.cloud.google.com/vertex-ai/workbench/list/instances">Workbench</a> 
-    </td>
-    <td>
-        <a href="https://console.cloud.google.com/vertex-ai/pipelines">Pipelines</a> 
-    </td>
-  </tr>
+<sup>:link:-Product page</sup>
 
+<sup>:page_facing_up:-Documentation</sup>
+
+<table>
+ <tr>
+  <td>
+    <h3> Console </h3>
+  </td>
+ </tr>  
+ 
+ <tr>
+  <td>
+    <h3> Vertex AI </h3>
+  </td>
+  
+  <td>
+    <img src="google-cloud-icons/vertexai/vertexai.png" height="100"/>
+    <br/>
+    <a href="https://console.cloud.google.com/vertex-ai">Vertex Dashboard</a> 
+    <br/>
+    <a href="https://cloud.google.com/functions/"><sup>:link:</sup></a>
+    <a href="https://cloud.google.com/functions/docs/"><sup>:page_facing_up:</sup></a>
+  </td>
+  
+  <td>
+    <img src="google-cloud-icons/vertexai/vertexai.png" height="100"/>
+    <br/>
+    <a href="https://console.cloud.google.com/vertex-ai/workbench/list/instances">Workbench</a> 
+    <br/>
+    <a href="https://cloud.google.com/functions/"><sup>:link:</sup></a>
+    <a href="https://cloud.google.com/functions/docs/"><sup>:page_facing_up:</sup></a>
+  </td>
+  
+  <td>
+    <img src="google-cloud-icons/vertexai/vertexai.png" height="100"/>
+    <br/>
+    <a href="https://console.cloud.google.com/vertex-ai/pipelines">Vertex Pipelines</a> 
+    <br/>
+    <a href="https://cloud.google.com/functions/"><sup>:link:</sup></a>
+    <a href="https://cloud.google.com/functions/docs/"><sup>:page_facing_up:</sup></a>
+  </td>
+  
+ </tr>
+  
+ <tr>
+  <td>
+    <h3> Storage </h3>
+  </td>
+ </tr>
+ 
+  <tr>
+  <td>
+    <h3> Analytics </h3>
+  </td>
+ </tr>
+ 
+  <tr>
+  <td>
+    <h3> Serverless </h3>
+  </td>
+ </tr>
+ 
+  <tr>
+  <td>
+    <h3> Operations </h3>
+  </td>
+ </tr>
+ 
+  <tr>
+  <td>
+    <h3> Integration </h3>
+  </td>
+ </tr>
+ 
+  <tr>
+  <td>
+    <h3> CI/CD </h3>
+  </td>
+ </tr>
 </table>
