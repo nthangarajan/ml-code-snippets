@@ -1,0 +1,4 @@
+SHELL=/usr/bin/bash
+ATAP_MLP_DIR=/home/jupyter/atap-analyticpipeline
+
+0 23 * * * cd $ATAP_MLP_DIR ; /home/jupyter/atap-analyticpipeline/run_daily_pipeline.sh 'fab-10' >> /home/jupyter/atap-analyticpipeline/fab_10_daily_pipeline_trigger.log
