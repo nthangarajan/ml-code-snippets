@@ -18,3 +18,6 @@ gsutil du -h gs://packt-gcp/
 
 #Copying a whole folder to a bucket:
 gsutil cp -r gs://packt-gcp/
+
+#list all blob from BUCKET_NAME
+gsutil ls -al $BUCKET_NAME
