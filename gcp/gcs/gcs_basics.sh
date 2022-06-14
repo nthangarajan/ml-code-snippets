@@ -21,3 +21,6 @@ gsutil cp -r gs://packt-gcp/
 
 #list all blob from BUCKET_NAME
 gsutil ls -al $BUCKET_NAME
+
+#remove files
+gsutil -m rm -r "gs://gdw-test-atap-ml-default/atap-ml-data/atap-raw-data/eeh/2022*"
