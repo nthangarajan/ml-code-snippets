@@ -24,3 +24,9 @@ gsutil ls -al $BUCKET_NAME
 
 #remove files
 gsutil -m rm -r "gs://gdw-test-atap-ml-default/atap-ml-data/atap-raw-data/eeh/2022*"
+
+
+ARTIFACT_STORE ='gdw-dev-fdis-auto-uva' 
+# ARTIFACT_STORE ='gdw-dev-fdis-ml-default'
+
+!gsutil ls | grep {ARTIFACT_STORE}/$
