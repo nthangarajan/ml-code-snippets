@@ -1,0 +1,12 @@
+.vscode
+.venv
+.ipynb_checkpoints
+.git
+_notebooks_local
+_data
+__pycache__
+pyc
+dist/
+build/
+*.egg-info/
+*.pyc
